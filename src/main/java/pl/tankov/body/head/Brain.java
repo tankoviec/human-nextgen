@@ -1,9 +1,9 @@
-package pl.tankov.body.leg;
+package pl.tankov.body.head;
 
 /**
  *
  * @author Paweł Głowacz
  */
-public class LeftLeg {
+public class Brain {
     
 }
