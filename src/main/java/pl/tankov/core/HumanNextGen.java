@@ -1,6 +1,7 @@
 package pl.tankov.core;
 
 /**
+ *  This is a artificial human.
  *
  * @author Paweł Głowacz
  */
