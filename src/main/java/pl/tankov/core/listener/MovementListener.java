@@ -1,4 +1,4 @@
-package pl.tankov.core;
+package pl.tankov.core.listener;
 
 /**
  * Movement definition.
@@ -6,7 +6,7 @@ package pl.tankov.core;
  *
  * @author Paweł Głowacz
  */
-public interface Movement {
+public interface MovementListener {
     public void moveForward() throws RuntimeException;
     public void moveBackward() throws RuntimeException;
     public void moveLeft() throws RuntimeException;
